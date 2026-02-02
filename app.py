@@ -7,7 +7,7 @@ import plotly.express as px
 
 # 1. PAGE CONFIGURATION
 st.set_page_config(
-    page_title="Cinematix AI",
+    page_title="Cinematix",
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="expanded"
