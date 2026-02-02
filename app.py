@@ -53,7 +53,7 @@ similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 # 5. SIDEBAR
 with st.sidebar:
-    st.title("🎬 Cinematix AI")
+    st.title("🎬 Cinematix")
     st.markdown("---")
     selected_movie_name = st.selectbox(
         'Type or select a movie:',
